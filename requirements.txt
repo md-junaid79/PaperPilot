@@ -1,0 +1,11 @@
+langchain==0.1.0
+langchain-groq==0.0.1
+# langgraph==0.0.20
+qdrant-client==1.7.0  # Primary option
+streamlit==1.31.0
+pymupdf==1.23.26
+unstructured==0.11.0
+sentence-transformers==2.3.0
+arxiv==2.1.0
+python-dotenv==1.0.0
+pandas==2.1.0
